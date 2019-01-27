@@ -1,0 +1,19 @@
+{
+  "name": "await-catch-break",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vedsmith92/await-catch-break.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vedsmith92/await-catch-break/issues"
+  },
+  "homepage": "https://github.com/vedsmith92/await-catch-break#readme"
+}
