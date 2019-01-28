@@ -22,5 +22,3 @@ let data = await awcb(foo()) // foo = Some promise that reject an error.
 // When rejected an error, this code below will not be executed !
 console.log({ data });
 ```
-
-Note: Always need `.catch()`, otherwise the promise will not be executed.
